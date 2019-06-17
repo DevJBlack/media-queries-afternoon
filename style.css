@@ -85,7 +85,7 @@ body {
     flex-direction: column;
     background: rgb(37, 37, 37);
   }
-  
+
   .navbar-nav li {
     display: flex;
     justify-content: flex-start;
@@ -96,12 +96,6 @@ body {
     display: block;
   }
 }
-
-
-
-
-
-
 
 header{
   background-image: url("https://blackrockdigital.github.io/startbootstrap-agency/img/header-bg.jpg");
